@@ -1,0 +1,3 @@
+Unidecode==0.4.20
+chalice
+boto3
